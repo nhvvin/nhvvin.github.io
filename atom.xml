@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2019-10-25T14:50:38+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://nhvvin.github.io/atom.xml" rel="self"/>
+  <link href="http://nhvvin.github.io/"/>
+  <updated>2019-10-25T15:19:53+08:00</updated>
+  <id>http://nhvvin.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Welcome to ZoneV]]></title>
-    <link href="http://yoursite.com/blog/2019/10/25/welcome-to-zonev/"/>
+    <link href="http://nhvvin.github.io/blog/2019/10/25/welcome-to-zonev/"/>
     <updated>2019-10-25T14:50:15+08:00</updated>
-    <id>http://yoursite.com/blog/2019/10/25/welcome-to-zonev</id>
+    <id>http://nhvvin.github.io/blog/2019/10/25/welcome-to-zonev</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
