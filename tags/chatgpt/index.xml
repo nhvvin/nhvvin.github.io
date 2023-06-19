@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>chatgpt - Tag - VIN Blogs</title>
+        <link>https://nhvvin.com/tags/chatgpt/</link>
+        <description>chatgpt - Tag - VIN Blogs</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>nhv.vin@gmail.com (Viet Nguyen)</managingEditor>
+            <webMaster>nhv.vin@gmail.com (Viet Nguyen)</webMaster><lastBuildDate>Thu, 05 Jan 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://nhvvin.com/tags/chatgpt/" rel="self" type="application/rss+xml" /><item>
+    <title>I Try Chatgpt</title>
+    <link>https://nhvvin.com/posts/i-try-chatgpt/</link>
+    <pubDate>Thu, 05 Jan 2023 00:00:00 &#43;0000</pubDate>
+    <author>Viet Nguyen</author>
+    <guid>https://nhvvin.com/posts/i-try-chatgpt/</guid>
+    <description><![CDATA[Can chatGPT generate non English language I am very interest with chatGPT when first time heard of it. I also want use it with Vietnamese language which is my mother language. I also want to test my blog can display Vietnamese character.
+Ask chatGPT for Vietnamese blog sample I am quite supprise to see chatGPT can generate Vietnamese blog. It mean people training chatGPT have used Vietnamese language data.]]></description>
+</item>
+</channel>
+</rss>

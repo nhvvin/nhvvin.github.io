@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>CICD - Tag - VIN Blogs</title>
+        <link>https://nhvvin.com/tags/cicd/</link>
+        <description>CICD - Tag - VIN Blogs</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>nhv.vin@gmail.com (Viet Nguyen)</managingEditor>
+            <webMaster>nhv.vin@gmail.com (Viet Nguyen)</webMaster><lastBuildDate>Mon, 19 Jun 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://nhvvin.com/tags/cicd/" rel="self" type="application/rss+xml" /><item>
+    <title>Overcoming Common Challenges in CI/CD Implementation</title>
+    <link>https://nhvvin.com/overcoming-common-challenges-in-ci-cd-implementation/</link>
+    <pubDate>Mon, 19 Jun 2023 00:00:00 &#43;0000</pubDate>
+    <author>Viet Nguyen</author>
+    <guid>https://nhvvin.com/overcoming-common-challenges-in-ci-cd-implementation/</guid>
+    <description><![CDATA[Introduction Continuous Integration and Continuous Deployment (CI/CD) practices have revolutionized software development by enabling faster and more frequent releases while maintaining code quality and stability. However, implementing CI/CD pipelines comes with its share of challenges. In this blog post, we will explore some of the common hurdles faced during CI/CD implementation and ways to overcome them.
+Challenge 1: Infrastructure Management A key challenge in CI/CD implementation is setting up and maintaining the infrastructure required for running the pipeline.]]></description>
+</item>
+</channel>
+</rss>

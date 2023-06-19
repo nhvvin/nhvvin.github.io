@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>orgmode - Tag - VIN Blogs</title>
+        <link>https://nhvvin.com/tags/orgmode/</link>
+        <description>orgmode - Tag - VIN Blogs</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>nhv.vin@gmail.com (Viet Nguyen)</managingEditor>
+            <webMaster>nhv.vin@gmail.com (Viet Nguyen)</webMaster><lastBuildDate>Mon, 19 Jun 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://nhvvin.com/tags/orgmode/" rel="self" type="application/rss+xml" /><item>
+    <title>Embracing the Power of Emacs Org Mode</title>
+    <link>https://nhvvin.com/using-chat-gpt-to-generate-blog-with-org-mode/</link>
+    <pubDate>Mon, 19 Jun 2023 00:00:00 &#43;0000</pubDate>
+    <author>Viet Nguyen</author>
+    <guid>https://nhvvin.com/using-chat-gpt-to-generate-blog-with-org-mode/</guid>
+    <description><![CDATA[Introduction Org mode is one of the most powerful and versatile tools for productivity in the world of Emacs. What started as a simple outlining tool, Org mode has grown into a comprehensive system for managing tasks, organizing notes, writing documents, and even publishing blog posts. In this blog post, we will explore some of the key features of Org mode and how it can revolutionize your workflow.
+Task Management One of the standout features of Org mode is its robust task management capabilities.]]></description>
+</item>
+</channel>
+</rss>

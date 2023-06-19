@@ -1,0 +1,88 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Category - VIN Blogs</title>
+        <link>https://nhvvin.com/categories/</link>
+        <description>Categories - Category - VIN Blogs</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>nhv.vin@gmail.com (Viet Nguyen)</managingEditor>
+            <webMaster>nhv.vin@gmail.com (Viet Nguyen)</webMaster><lastBuildDate>Mon, 19 Jun 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://nhvvin.com/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>CICD</title>
+    <link>https://nhvvin.com/categories/cicd/</link>
+    <pubDate>Mon, 19 Jun 2023 00:00:00 &#43;0000</pubDate>
+    <author>Viet Nguyen</author>
+    <guid>https://nhvvin.com/categories/cicd/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>emacs</title>
+    <link>https://nhvvin.com/categories/emacs/</link>
+    <pubDate>Mon, 19 Jun 2023 00:00:00 &#43;0000</pubDate>
+    <author>Viet Nguyen</author>
+    <guid>https://nhvvin.com/categories/emacs/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>ML</title>
+    <link>https://nhvvin.com/categories/ml/</link>
+    <pubDate>Mon, 19 Jun 2023 00:00:00 &#43;0000</pubDate>
+    <author>Viet Nguyen</author>
+    <guid>https://nhvvin.com/categories/ml/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>orgmode</title>
+    <link>https://nhvvin.com/categories/orgmode/</link>
+    <pubDate>Mon, 19 Jun 2023 00:00:00 &#43;0000</pubDate>
+    <author>Viet Nguyen</author>
+    <guid>https://nhvvin.com/categories/orgmode/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>python</title>
+    <link>https://nhvvin.com/categories/python/</link>
+    <pubDate>Mon, 19 Jun 2023 00:00:00 &#43;0000</pubDate>
+    <author>Viet Nguyen</author>
+    <guid>https://nhvvin.com/categories/python/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>sg</title>
+    <link>https://nhvvin.com/categories/sg/</link>
+    <pubDate>Mon, 19 Jun 2023 00:00:00 &#43;0000</pubDate>
+    <author>Viet Nguyen</author>
+    <guid>https://nhvvin.com/categories/sg/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>social</title>
+    <link>https://nhvvin.com/categories/social/</link>
+    <pubDate>Mon, 19 Jun 2023 00:00:00 &#43;0000</pubDate>
+    <author>Viet Nguyen</author>
+    <guid>https://nhvvin.com/categories/social/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>books</title>
+    <link>https://nhvvin.com/categories/books/</link>
+    <pubDate>Wed, 17 May 2023 00:00:00 &#43;0000</pubDate>
+    <author>Viet Nguyen</author>
+    <guid>https://nhvvin.com/categories/books/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>review</title>
+    <link>https://nhvvin.com/categories/review/</link>
+    <pubDate>Wed, 17 May 2023 00:00:00 &#43;0000</pubDate>
+    <author>Viet Nguyen</author>
+    <guid>https://nhvvin.com/categories/review/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>ai</title>
+    <link>https://nhvvin.com/categories/ai/</link>
+    <pubDate>Thu, 05 Jan 2023 00:00:00 &#43;0000</pubDate>
+    <author>Viet Nguyen</author>
+    <guid>https://nhvvin.com/categories/ai/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

@@ -1,22 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>http://nhvvin.github.io/blog/2019/10/25/welcome-to-zonev/</loc>
-<lastmod>2019-10-25T14:50:15+08:00</lastmod>
-</url>
-<url>
-<loc>http://nhvvin.github.io/</loc>
-</url>
-<url>
-<loc>http://nhvvin.github.io/archives/</loc>
-</url>
-<url>
-<loc>http://nhvvin.github.io/blog/</loc>
-</url>
-<url>
-<loc>http://nhvvin.github.io/blog/archives/</loc>
-</url>
-<url>
-<loc>http://nhvvin.github.io/blog/categories/blog/</loc>
-</url>
-</urlset>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>https://nhvvin.com/categories/</loc><lastmod>2023-06-19T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://nhvvin.com/tags/cicd/</loc><lastmod>2023-06-19T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://nhvvin.com/categories/cicd/</loc><lastmod>2023-06-19T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://nhvvin.com/tags/emacs/</loc><lastmod>2023-06-19T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://nhvvin.com/categories/emacs/</loc><lastmod>2023-06-19T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://nhvvin.com/using-chat-gpt-to-generate-blog-with-org-mode/</loc><lastmod>2023-06-19T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://nhvvin.com/exploring-the-wonders-of-machine-learning-with-python/</loc><lastmod>2023-06-19T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://nhvvin.com/tags/ml/</loc><lastmod>2023-06-19T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://nhvvin.com/categories/ml/</loc><lastmod>2023-06-19T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://nhvvin.com/tags/orgmode/</loc><lastmod>2023-06-19T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://nhvvin.com/categories/orgmode/</loc><lastmod>2023-06-19T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://nhvvin.com/overcoming-common-challenges-in-ci-cd-implementation/</loc><lastmod>2023-06-19T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://nhvvin.com/posts/</loc><lastmod>2023-06-19T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://nhvvin.com/tags/python/</loc><lastmod>2023-06-19T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://nhvvin.com/categories/python/</loc><lastmod>2023-06-19T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://nhvvin.com/tags/sg/</loc><lastmod>2023-06-19T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://nhvvin.com/categories/sg/</loc><lastmod>2023-06-19T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://nhvvin.com/singapore-a-rich-country-with-a-dark-future-/</loc><lastmod>2023-06-19T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://nhvvin.com/tags/social/</loc><lastmod>2023-06-19T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://nhvvin.com/categories/social/</loc><lastmod>2023-06-19T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://nhvvin.com/tags/</loc><lastmod>2023-06-19T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://nhvvin.com/</loc><lastmod>2023-06-19T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://nhvvin.com/tags/books/</loc><lastmod>2023-05-17T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://nhvvin.com/categories/books/</loc><lastmod>2023-05-17T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://nhvvin.com/tags/review/</loc><lastmod>2023-05-17T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://nhvvin.com/categories/review/</loc><lastmod>2023-05-17T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://nhvvin.com/posts/review-book-economix/</loc><lastmod>2023-05-17T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://nhvvin.com/tags/ai/</loc><lastmod>2023-01-05T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://nhvvin.com/categories/ai/</loc><lastmod>2023-01-05T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://nhvvin.com/tags/chatgpt/</loc><lastmod>2023-01-05T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://nhvvin.com/categories/chatgpt/</loc><lastmod>2023-01-05T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://nhvvin.com/posts/i-try-chatgpt/</loc><lastmod>2023-01-05T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://nhvvin.com/categories/hugo/</loc><lastmod>2022-12-29T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://nhvvin.com/posts/my-first-post/</loc><lastmod>2022-12-29T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://nhvvin.com/categories/org-mode/</loc><lastmod>2022-12-29T00:00:00&#43;00:00</lastmod></url></urlset>

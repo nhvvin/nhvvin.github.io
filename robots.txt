@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://nhvvin.github.io/sitemap.xml 
